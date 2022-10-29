@@ -1,0 +1,18 @@
+.tabel{
+box-sizing: border-box;    
+font-size: 15px;
+
+
+}
+.tabel{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+.cell{
+    width: 15%;
+}
